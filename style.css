@@ -104,11 +104,11 @@
 }
 h1 {
   font-family: 'Al-Jazeera-Arabic', sans-serif;
-  font-size: 24px;
-  color: #fff;
+  font-size: 35px;
+  color: #111;
   text-align: center;
   padding: 20px;
-  background-color: #1c1c1c;
+  background-color: #fff;
   position: relative;
   box-shadow: 0 0 0 transparent;
   transition: box-shadow 0.3s ease-in-out;
@@ -125,10 +125,9 @@ h1 {
 }
 .slider .items-group .item .block h2 {
   font-family: 'Al-Jazeera-Arabic', sans-serif;
-
   font-size: 130px;
   margin-bottom: 0px;
-  color: #1c1c1c;
+  color: #111;
 }
 .slider .items-group .item .block p {
   font-family: 'Open Sans', sans-serif;
@@ -147,18 +146,17 @@ h1 {
 }
 .slider .navigations .dots {
   height: 20px;
-  padding: 10px 0px;
   text-align: center;
 }
 .slider-bg {
-  background-color: #1c1c1c;
+  background-color: #fff;
 }
 .slider .navigations .dots li {
-  width: 10px;
-  height: 10px;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
   transition: 0.3s;
-  background: #fff;
+  background: blue;
   color: #fff;
   border-radius: 50%;
   display: inline-block;
